@@ -80,3 +80,7 @@ Created a new feature:
 
 ```python
 car_age = 2026 - year
+
+
+* Implemented **Ridge Regression** and evaluated the model using MAE, MSE, RMSE, and R² Score.
+* Implemented **Decision Tree Regression** with Actual vs Predicted analysis and visualization.
